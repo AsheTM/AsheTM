@@ -1,4 +1,16 @@
-### Hi there 👋
+### About me
+
+Hi there, 
+My name is Haitham, and I'm a Software Engineer in Java/Javascript.
+
+### Knowledges
+
+I'm currently trying to master what I know. And also trying to learn new stuffs new stacks related to JAVA and Javascript
+
+### My works
+
+For my personal work projects, I'm trying to apply what I know with the best practice in public projects. 
+Those public ones present in my Github account are the ones I'm talking about.
 
 <!--
 **AsheTM/AsheTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
