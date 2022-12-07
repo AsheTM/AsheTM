@@ -1,11 +1,11 @@
 ### About me
 
 Hi there, 
-My name is Haitham, and I'm a Software Engineer in Java/Javascript.
+My name is Haitham, and I'm a Angular Expert, Software Engineer Full Stack ExpressJS/NestJS & Angular and Blockchain Enthousiast (Solidity).
 
 ### Knowledges
 
-I'm currently trying to master what I know. And also trying to learn new stuffs new stacks related to JAVA and Javascript
+I'm currently trying to master what I know. And also trying to learn new stuffs new stacks related to Javascript and Typescript.
 
 ### My works
 
