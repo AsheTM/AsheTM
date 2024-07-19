@@ -1,7 +1,7 @@
 ### About me
 
 Hi there, 
-My name is Haitham, and I'm a Angular Expert, Software Engineer Full Stack ExpressJS/NestJS & Angular and Blockchain Enthousiast (Solidity).
+My name is Haitham, and I'm a Angular Expert, Software Engineer Full Stack JAVA/SprintBoot & ExpressJS/NestJS & Angular and Blockchain Enthousiast (Solidity).
 
 ### Knowledges
 
